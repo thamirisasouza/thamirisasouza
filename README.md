@@ -26,7 +26,7 @@ Bem-vindo(a) ao meu perfil no GitHub!
 ## 🛠️ Tecnologias e Ferramentas
 - **Linguagens:** HTML, CSS, JavaScript, Python
 - **Ferramentas:** Git, GitHub, VS Code, Google Ia Studio
-- **Sistemas/Bancos de Dados:** PostgreSQL, Firebase, Vercel
+- **Sistemas/Bancos de Dados:** MySQL, Firebase, Vercel
 
 ---
 
