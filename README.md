@@ -1,16 +1,27 @@
-## Hi there 👋
+# Olá! Eu sou a Thamiris 👋
 
-<!--
-**thamirisasouza/thamirisasouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo(a) ao meu perfil no GitHub! 
 
-Here are some ideas to get you started:
+## 👩‍💻 Sobre mim
+- 🚀 Atualmente estou estudando e me desenvolvendo na área de **Análise e Desevolvimento de Sistemas & UX/UI**.
+- 💡 Tenho facilidade para organizar processos, criar soluções práticas e aprender coisas novas.
+- 🎯 Meu objetivo é criar projetos que facilitem a vida das pessoas e gerem impacto positivo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tecnologias e Ferramentas
+- **Linguagens:** HTML, CSS, JavaScript, Python
+- **Ferramentas:** Git, GitHub, VS Code, Google Ia Studio
+- **Sistemas/Bancos de Dados:** PostgreSQL, Firebase, Vercel
+
+---
+
+## 📌 Meus Projetos em Destaque
+- 📂 **Glint**: Uma breve descrição em uma frase sobre o que o sistema faz.
+- 📂 **Facility MEI**: Uma breve descrição sobre qual problema o projeto resolve.
+
+---
+
+## 📫 Como me encontrar
+- **LinkedIn:** https://linkedin.com/in/thamirisasouza
+- **E-mail:** thamirisilva97@gmail.com
