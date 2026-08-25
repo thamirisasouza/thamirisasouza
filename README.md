@@ -33,6 +33,7 @@ Bem-vindo(a) ao meu perfil no GitHub!
 ## 📌 Meus Projetos em Destaque
 - 📂 **Glint**: Uma breve descrição em uma frase sobre o que o sistema faz.
 - 📂 **Facility MEI**: Uma breve descrição sobre qual problema o projeto resolve.
+- 📂 **Verdê - Assistente Financeiro**: Uma breve descrição sobre qual problema o projeto resolve.
 
 ---
 
