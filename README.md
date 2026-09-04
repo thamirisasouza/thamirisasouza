@@ -1,4 +1,4 @@
-# Olá! Eu sou a Thamiris Alves de Souza 👋
+# Olá! Eu sou a Thamiris 👋
 
 Bem-vindo(a) ao meu perfil no GitHub! 
 
